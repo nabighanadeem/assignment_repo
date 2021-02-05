@@ -1,0 +1,1 @@
+var str = "I am naabi"
